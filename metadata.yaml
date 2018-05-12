@@ -1,0 +1,31 @@
+_repo: A-Christian-But-a-Roman_31942
+_version: 0.1.0
+alternative_title: Carinus. English
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jókai, Mór
+    aliases:
+    - Jokai, Mor
+    - Jokai, Maurus
+    birthdate: 1825
+    deathdate: 1904
+    gutenberg_agent_id: '5845'
+    url: http://www.gutenberg.org/2009/agents/5845
+    wikipedia: http://en.wikipedia.org/wiki/M%C3%B3r_J%C3%B3kai
+description: ''
+gutenberg_issued: '2010-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Empire, 30 B.C.-284 A.D -- Fiction'
+- !lcc 'PH'
+title: A Christian But a Roman
+url: http://www.gutenberg.org/ebooks/31942
